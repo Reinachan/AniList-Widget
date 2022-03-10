@@ -1,7 +1,7 @@
 {
   "name": "reinas-scriptwidgets",
   "version": "1.0.0",
-  "description": "AniList widget for ScriptWidget",
+  "description": "Widgets I've made for ScriptWidget",
   "scripts": {
     "start": "tsc",
     "build": "tsc --build && prettier ./dist/**.* -w"
