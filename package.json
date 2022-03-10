@@ -9,7 +9,7 @@
   "author": "Reinachan",
   "license": "MIT",
   "dependencies": {
-    "scriptwidget-typescript": "file:../ScriptWidget TypeScript"
+    "scriptwidget-typescript": "^3.12.1"
   },
   "devDependencies": {
     "prettier": "^2.5.1",
